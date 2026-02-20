@@ -1,0 +1,4 @@
+{
+  "test_case": "Login Functionalyti",
+  "steps": ["Open App", "Enter Credentials"]
+}
