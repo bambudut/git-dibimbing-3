@@ -2,7 +2,8 @@
        "test_case": "Login Functionality",
        "steps": [
               "Open App",
-              "Enter Credentials",
+              "Enter Username",
+              "Enter Password",
               "Click Login"
        ],
        "expected_result": "User navigates to dashboard"
